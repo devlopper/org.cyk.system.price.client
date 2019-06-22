@@ -1,0 +1,1 @@
+docker build --tag "price-client:latest" ../../
